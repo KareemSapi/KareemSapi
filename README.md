@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**KareemSapi/KareemSapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### <ins>**About Me**</ins> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  :eyes: I’m Kareem.
+-  :computer: I’m a full-stack Web Developer using MEAN tech stack.
+-  :books: I graduated in 2020 for the University of Dar es Salaam, Dar es Salaam (Bsc in Computer Science).
+-  :seedling: I’m currently learning PostgreSQL.
+
+
+### <ins>**Tech Stack**</ins>
+
+
+### <ins>**Contact Me**</ins>
+
+
