@@ -6,7 +6,7 @@
 -  :eyes: I’m Kareem, by the way.
 -  :computer: A full-stack Web Developer using MEAN stack.
 -  :books: I graduated in 2020 from the University of Dar es Salaam, Dar es Salaam (Bsc in Computer Science).
--  :seedling: I’m currently learning PostgreSQL.
+-  :seedling: I’m currently learning Java.
 
 
 ### <ins>**Tech Stack**</ins>
